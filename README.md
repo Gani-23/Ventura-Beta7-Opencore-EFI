@@ -1,5 +1,5 @@
 # OPENCORE-0.8.4
-# AcerNItro-515-52-Ventura-EFI
+# AcerNitro-515-52-Ventura-EFI
 
 
 ## CONFIGURATION
